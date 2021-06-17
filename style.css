@@ -1,12 +1,12 @@
 body {
-    background-color: #F5B950;
+    background-color: #FEF0E5;
     color: black;
     font-size: 20px;
 }
 
 #image {
     float: left;
-    padding: 0 25px 25px 0;
+    padding: auto;
     height: 700px;
     width: 40%;
 }
@@ -14,12 +14,12 @@ body {
 #text {
     font-family: 'IM Fell French Canon', serif;
     text-align: center;
-    padding: justify;
+    padding: auto;
     margin-right: auto;
 }
 
 a {
-    color: #0D97AC;
+    color: #FF4500;
     text-decoration: none;
 }
 
