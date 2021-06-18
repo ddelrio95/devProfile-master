@@ -1,1 +1,1 @@
-# devProfile: https://ddelrio95.github.io/devProfile-master/
+# devProfile: https://ddelrio95.github.io/devProfile/
