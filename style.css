@@ -21,11 +21,9 @@ body {
 }
 
 a {
-    color: #FF4500;
+    color: black;
     text-decoration: none;
 }
-
-a {}
 
 h1 {
     margin-bottom: 100px;
@@ -38,4 +36,24 @@ h2 {
 
 p {
     padding-right: 200px;
+}
+
+.icons {
+    color: black;
+}
+
+.icons a :hover {
+    color: orangered;
+}
+
+.icons a {
+    padding-left: 0.5em;
+}
+
+.orange a {
+    color: orangered;
+}
+
+.other a:hover {
+    color: orangered;
 }
