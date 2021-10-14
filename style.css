@@ -8,7 +8,7 @@
         
         #image {
             float: left;
-            padding: auto;
+            padding: ;
             height: 700px;
             width: 50%;
         }
@@ -60,12 +60,13 @@
         
         @media only screen and (max-width: 760px) {
             .image {
+                display: none;
                 width: 200px;
                 height: 100px;
-                position: relative;
+                position: hidden;
             }
             .text h1 {
-                width: hidden;
+                max-width: 70%;
             }
             .text h2 {
                 max-width: 50%;
